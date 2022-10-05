@@ -1,3 +1,3 @@
-# demo promenjen red
-dodat red
-treci red dodat
+# test promenjen red
+treci red dodat promenjen
+cetvrti red dodat 
